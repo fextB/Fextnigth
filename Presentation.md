@@ -9,7 +9,7 @@
 <p> </p>
 - 🌱 J'apprends actuellement le développement web
 <p> </p>
-- 📫 Tu peux me joindre sur Discord : Fext#0001
+- 📫 Tu peux me joindre sur Discord : Fext#2187
 
 <!---
 Fextnigth/Fextnigth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
